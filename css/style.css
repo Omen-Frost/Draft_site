@@ -84,6 +84,7 @@ a:focus {
     padding: 15px 0;
     text-align: left;
     overflow: hidden;
+    word-wrap: normal;
 }
 
 .top-bar .logo h1 {
@@ -92,7 +93,6 @@ a:focus {
     font-size: 50px;
     line-height: 55px;
     font-weight: 800;
-    word-wrap: normal;
 }
 
 .top-bar .logo img {
